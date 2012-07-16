@@ -1,9 +1,9 @@
-ÉÔÎ¢ÕûÀíÁËÒ»ÏÂ³£ÓÃµÄÉøÍ¸ºÍÆäËû¹¤¾ß£¬»¶Ó­´ó¼ÒÌí¼Ó
+ç¨å¾®æ•´ç†äº†ä¸€ä¸‹å¸¸ç”¨çš„æ¸—é€å’Œå…¶ä»–å·¥å…·ï¼Œæ¬¢è¿Žå¤§å®¶æ·»åŠ 
 -------------------------------
-¼¯³É¹¤¾ß
+é›†æˆå·¥å…·
 	BT5
 
-É¨Ãè
+æ‰«æ
 	Fluxay
 	Xscan
 	Nmap
@@ -11,57 +11,57 @@
 	WVS
 	JSKY
 
-ÉøÍ¸Ì×¼þ
+æ¸—é€å¥—ä»¶
 	BurpSuit
 
-×¢Èë
+æ³¨å…¥
 	Pangolin
 	domain
 
-Â©¶´
+æ¼æ´ž
 	MSF
 
-Éç¹¤
+ç¤¾å·¥
 	SET
 
-ÐáÌ½
+å—…æŽ¢
 	sniffer pro
 	wireshark
 	cain
 
-¿ÚÁîÆÆ½â
+å£ä»¤ç ´è§£
 	cain
 
-Çå³ýÈÕÖ¾
+æ¸…é™¤æ—¥å¿—
 	clearlog
 
-ÎÞÏß
+æ— çº¿
 	aircrack-ng
 
-ºóÃÅ
-	Webshell(ÍøÉÏËæ±ãÕÒ)
+åŽé—¨
+	Webshell(ç½‘ä¸Šéšä¾¿æ‰¾)
 
-Ä¾Âí
-	»Ò¸ë×Ó
-	ºÚ¶´(ÔÝÎÞ)
+æœ¨é©¬
+	ç°é¸½å­
+	é»‘æ´ž(æš‚æ— )
 
 EXP
 	struts2
 	dede5.7
 	mysql hash 0day
 
-ÄæÏò
+é€†å‘
 	OD 
 	IDA
 	PEID
 
-ÔÓÏî
+æ‚é¡¹
 	NetCat
 	LCX
-	ÍøÂç´Ì¿Í
-	±ùÈÐ
-	AsciiËæÐÄ×ª
-	Ð¡¿û
+	ç½‘ç»œåˆºå®¢
+	å†°åˆƒ
+	Asciiéšå¿ƒè½¬
+	å°è‘µ
 
 -----------------------------------------------------------------
 						Create by	KingX @ DarkMoon
