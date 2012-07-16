@@ -53,7 +53,10 @@ EXP
 逆向
 	OD 
 	IDA
-	PEID
+  DarDe4
+  W32ASM
+	
+   PEID
 
 杂项
 	NetCat
