@@ -1,0 +1,67 @@
+稍微整理了一下常用的渗透和其他工具，欢迎大家添加
+-------------------------------
+集成工具
+	BT5
+
+扫描
+	Fluxay
+	Xscan
+	Nmap
+	Nessus
+	WVS
+	JSKY
+
+渗透套件
+	BurpSuit
+
+注入
+	Pangolin
+	domain
+
+漏洞
+	MSF
+
+社工
+	SET
+
+嗅探
+	sniffer pro
+	wireshark
+	cain
+
+口令破解
+	cain
+
+清除日志
+	clearlog
+
+无线
+	aircrack-ng
+
+后门
+	Webshell(网上随便找)
+
+木马
+	灰鸽子
+	黑洞(暂无)
+
+EXP
+	struts2
+	dede5.7
+	mysql hash 0day
+
+逆向
+	OD 
+	IDA
+	PEID
+
+杂项
+	NetCat
+	LCX
+	网络刺客
+	冰刃
+	Ascii随心转
+	小葵
+
+-----------------------------------------------------------------
+						Create by	KingX @ DarkMoon
